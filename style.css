@@ -1,0 +1,33 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #ebf3af;
+}
+
+/* Judul utama */
+h1 {
+    font-weight: 600;
+    color: #e75480;
+}
+
+/* Nama */
+h2 {
+    font-weight: 600;
+    color: #d63384;
+}
+
+/* Judul section */
+h3 {
+    font-weight: 500;
+    color: #a81a74;
+}
+
+/* Paragraf */
+p {
+    color: #1e1d1d;
+    line-height: 1.6;
+}
+
+/* Card */
+.card {
+    border-radius: 15px;
+}
